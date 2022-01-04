@@ -45,6 +45,14 @@
             "name": "Poly-Peg CAKE",
             "symbol": "CAKE",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
+        },
+          {
+            "chainId": 1088,
+            "address": "0x36af0214E00B4988934d3fA356817F9D18e18791",
+            "decimals": 18,
+            "name": "Andro Finance",
+            "symbol": "ANDRO",
+            "logoURI": "https://raw.githubusercontent.com/AndroFinance/assets/b47c93a33d864082f6f12b863029310fb168f72a/andro.png"
         }
     ]
 }
