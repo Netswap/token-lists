@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 19,
+        "major": 20,
         "minor": 0,
         "patch": 0
     },
@@ -276,7 +276,15 @@
             "name": "WBTC Token",
             "symbol": "m.WBTC",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x433e43047b95cb83517abd7c9978bdf7005e9938/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x5a3b6a5c737b0e85dd9120ceed7c0db86f41fa68",
+            "decimals": 18,
+            "name": "Mini Metis",
+            "symbol": "MINIME",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x5a3b6a5c737b0e85dd9120ceed7c0db86f41fa68/logo.png"
         }
     ],
-    "timestamp": "2023-04-28T17:00:00+00:00"
+    "timestamp": "2023-12-27T14:11:00+00:00"
 }
