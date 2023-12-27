@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 9,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -284,7 +284,15 @@
             "name": "UNICORN",
             "symbol": "UNICORN",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xe1b6442f0d77d6110745308b8b3827f015fe2648/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x5a3b6a5c737b0e85dd9120ceed7c0db86f41fa68",
+            "decimals": 18,
+            "name": "Mini Metis",
+            "symbol": "MINIME",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x5a3b6a5c737b0e85dd9120ceed7c0db86f41fa68/logo.png"
         }
     ],
-    "timestamp": "2023-12-25T17:00:00+00:00"
+    "timestamp": "2023-12-27T14:09:00+00:00"
 }
