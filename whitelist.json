@@ -296,7 +296,7 @@
                 {
             "chainId": 1088,
             "address": "0x8eacA4A470e7509aC8d0873150310bFfd1c03927",
-            "decimals": 18,
+            "decimals": 9,
             "name": "Pepecus",
             "symbol": "PEPECUS",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x8eacA4A470e7509aC8d0873150310bFfd1c03927/logo.png"
