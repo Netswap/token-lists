@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 9,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -292,7 +292,15 @@
             "name": "Vega Protocol",
             "symbol": "VEGA",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x2136d8017ac5f4db99a7f9e23f15116b9c98be4e/logo.png"
+        },
+                {
+            "chainId": 1088,
+            "address": "0x8eacA4A470e7509aC8d0873150310bFfd1c03927",
+            "decimals": 18,
+            "name": "Pepecus",
+            "symbol": "PEPECUS",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x8eacA4A470e7509aC8d0873150310bFfd1c03927/logo.png"
         }
     ],
-    "timestamp": "2023-12-25T17:00:00+00:00"
+    "timestamp": "2023-12-28T21:13:00+00:00"
 }
