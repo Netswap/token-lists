@@ -372,6 +372,14 @@
             "name": "Metis Chain Capital",
             "symbol": "MCC",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xc9719e8431fc37dc4526c0bc6b5087febc6b5909/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x34b4C6eb40A10BE8f8aBE4785f1DE987A2C7Fb07",
+            "decimals": 18,
+            "name": "EleinaDMetis",
+            "symbol": "ATSES",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x34b4C6eb40A10BE8f8aBE4785f1DE987A2C7Fb07/logo.png"
         }
     ],
     "timestamp": "2024-01-01T17:00:00+00:00"
