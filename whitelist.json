@@ -372,7 +372,15 @@
             "name": "Metis Chain Capital",
             "symbol": "MCC",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xc9719e8431fc37dc4526c0bc6b5087febc6b5909/logo.png"
+        },
+        {
+            "address": "0xc029adf62cf8f91985c49e1fde6900affcba0424",
+            "chainId": 1088,
+            "name": "BlockChat",
+            "symbol": "BCD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xc029adf62cf8f91985c49e1fde6900affcba0424/logo.png"
         }
     ],
-    "timestamp": "2024-01-01T17:00:00+00:00"
+    "timestamp": "2024-03-06T17:00:00+00:00"
 }
