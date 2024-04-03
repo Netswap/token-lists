@@ -8,8 +8,8 @@
         "andromeda"
     ],
     "version": {
-        "major": 12,
-        "minor": 1,
+        "major": 13,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -380,7 +380,15 @@
             "symbol": "BCD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xc029adf62cf8f91985c49e1fde6900affcba0424/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
+            "decimals": 18,
+            "name": "ENKI Protocol",
+            "symbol": "ENKI",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x096a84536ab84e68ee210561ffd3a038e79736f1/logo.png"
         }
     ],
-    "timestamp": "2024-03-06T17:00:00+00:00"
+    "timestamp": "2024-04-03T17:00:00+00:00"
 }
