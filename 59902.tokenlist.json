@@ -1,0 +1,60 @@
+{
+    "name": "Test Tokens",
+    "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+    "keywords": [
+        "metis",
+        "defi",
+        "ethereum",
+        "bridge",
+        "stardust",
+        "testnet"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 59902,
+            "address": "0xA49efFF1961C0aF60519887E390e9954952176f8",
+            "decimals": 18,
+            "name": "Netswap Token",
+            "symbol": "NETT",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
+        },
+        {
+            "chainId": 59902,
+            "address": "0xc659e6F7cD7a204Cb358cC5EC738d6f2fE2289A8",
+            "decimals": 6,
+            "name": "Test USDT",
+            "symbol": "TUSDT",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png"
+        },
+        {
+            "chainId": 59902,
+            "address": "0xe046C264FE0EF85F4e21737b1Ae4acaE9524049c",
+            "decimals": 6,
+            "name": "Test USDC",
+            "symbol": "TUSDC",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 59902,
+            "address": "0x93135DA67ea53841219c2dB1FcAa5Dbb275Dd1C8",
+            "decimals": 8,
+            "name": "Test WBTC",
+            "symbol": "TWBTC",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WBTC/logo.png"
+        },
+        {
+            "chainId": 59902,
+            "address": "0x6a72bc6332e7252F2A696DB16Fe0186051325526",
+            "decimals": 18,
+            "name": "Test LINK",
+            "symbol": "TLINK",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png"
+        }
+    ],
+    "timestamp": "2024-04-16T12:00:00+00:00"
+}
