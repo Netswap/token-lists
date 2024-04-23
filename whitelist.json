@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 13,
+        "major": 14,
         "minor": 0,
         "patch": 0
     },
@@ -388,7 +388,23 @@
             "name": "ENKI Protocol",
             "symbol": "ENKI",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x096a84536ab84e68ee210561ffd3a038e79736f1/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x97a2de3a09f4a4229369ee82c7f76be1a5564661",
+            "decimals": 18,
+            "name": "ENKI Metis",
+            "symbol": "eMetis",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x97a2de3a09f4a4229369ee82c7f76be1a5564661/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x79f3522a1b56f22a6549e42f9cfa92ef5feb81e8",
+            "decimals": 18,
+            "name": "Staked ENKI Metis",
+            "symbol": "seMetis",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x79f3522a1b56f22a6549e42f9cfa92ef5feb81e8/logo.png"
         }
     ],
-    "timestamp": "2024-04-03T17:00:00+00:00"
+    "timestamp": "2024-04-23T17:00:00+00:00"
 }
