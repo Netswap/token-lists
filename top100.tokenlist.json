@@ -166,12 +166,12 @@
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xc029adf62cf8f91985c49e1fde6900affcba0424/logo.png"
         },
         {
-            "address": "0x0a32e9edca15bc5b02edc732a2d44e0caf5078a8",
+            "address": "0x83534703001938b89eeaf26311264fc5585df470",
             "chainId": 1088,
             "name": "Bees",
             "symbol": "BEES",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x0a32e9edca15bc5b02edc732a2d44e0caf5078a8/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x83534703001938b89eeaf26311264fc5585df470/logo.png"
         }
     ],
     "timestamp": "2024-11-26T17:00:00+00:00"
