@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 16,
+        "major": 17,
         "minor": 0,
         "patch": 0
     },
@@ -412,7 +412,15 @@
             "symbol": "BEES",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x83534703001938b89eeaf26311264fc5585df470/logo.png"
+        },
+        {
+            "address": "0xd8b2e62055c33c6AdCF3B53438384acA494de999",
+            "chainId": 1088,
+            "name": "All Spark",
+            "symbol": "ASPARK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xd8b2e62055c33c6adcf3b53438384aca494de999/logo.png"
         }
     ],
-    "timestamp": "2024-11-26T18:00:00+00:00"
+    "timestamp": "2024-12-24T18:00:00+00:00"
 }
