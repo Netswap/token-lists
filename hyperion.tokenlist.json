@@ -1,0 +1,59 @@
+{
+    "name": "Test Tokens",
+    "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+    "keywords": [
+        "metis",
+        "defi",
+        "ethereum",
+        "bridge",
+        "stardust",
+        "testnet"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 133717,
+            "address": "0x78e22BaE0734a87b51b8D95f71C0fC48c87729EA",
+            "decimals": 6,
+            "name": "Test USDT",
+            "symbol": "TUSDT",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png"
+        },
+        {
+            "chainId": 133717,
+            "address": "0x52d4F9A97210B38006746De023898665AFB46139",
+            "decimals": 6,
+            "name": "Test USDC",
+            "symbol": "TUSDC",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 133717,
+            "address": "0xfCF81c80a2806d262f2F555CaBBB1d542b7c8922",
+            "decimals": 8,
+            "name": "Test WBTC",
+            "symbol": "TWBTC",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WBTC/logo.png"
+        },
+        {
+            "chainId": 133717,
+            "address": "0x5DCeaFfb74b2c958bcb7925c59387B00Cb4a5c62",
+            "decimals": 18,
+            "name": "Test WETH",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
+        }, {
+            "chainId": 133717,
+            "address": "0x4d7BC47DC99C005e8B4c868E779fe00f9F04F4A7",
+            "decimals": 18,
+            "name": "Test WSOL",
+            "symbol": "WSOL",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/SOL/logo.png"
+        }
+    ],
+    "timestamp": "2025-05-08T12:00:00+00:00"
+}
