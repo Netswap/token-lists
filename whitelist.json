@@ -420,7 +420,15 @@
             "symbol": "ASPARK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xd8b2e62055c33c6adcf3b53438384aca494de999/logo.png"
+        },
+        {
+            "address": "0x6f95fff33660112e1fa8db0b854b098ac23120d6",
+            "chainId": 1088,
+            "name": "Corrupted Alith",
+            "symbol": "CALITH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x6f95fff33660112e1fa8db0b854b098ac23120d6/logo.png"
         }
     ],
-    "timestamp": "2024-12-24T18:00:00+00:00"
+    "timestamp": "2025-06-09T18:00:00+00:00"
 }
