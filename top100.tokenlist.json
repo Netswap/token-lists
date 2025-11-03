@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 29,
+        "major": 30,
         "minor": 0,
         "patch": 0
     },
@@ -188,7 +188,15 @@
             "symbol": "CALITH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x6f95fff33660112e1fa8db0b854b098ac23120d6/logo.png"
+        },
+        {
+            "address": "0x74ce2c404fc14c7b8e8e571c8e24a20c2bbad9ed",
+            "chainId": 1088,
+            "name": "Bang",
+            "symbol": "BANG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x74ce2c404fc14c7b8e8e571c8e24a20c2bbad9ed/logo.png"
         }
     ],
-    "timestamp": "2025-06-09T15:00:00+00:00"
+    "timestamp": "2025-11-04T15:00:00+00:00"
 }
